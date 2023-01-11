@@ -1,4 +1,4 @@
-# Meu primeiro porjeto com React Native
+# Meu primeiro projeto com React Native
 
 Olá!
 
